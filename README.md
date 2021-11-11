@@ -1,2 +1,2 @@
 # Projects
-This is a repository of recent projects.
+This is all about recent projects.
